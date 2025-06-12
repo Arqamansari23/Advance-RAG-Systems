@@ -1,0 +1,9 @@
+langchain_community
+langchain
+chromadb
+faiss-cpu
+rank_bm25
+langchain-google-genai
+langchain-experimental
+pypdf
+protobuf==3.20.3
